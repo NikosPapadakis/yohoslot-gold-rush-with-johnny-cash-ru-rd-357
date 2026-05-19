@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yohoslot-gold-rush-with-johnny-cash-ru.onrender.com/sitemap.xml
+Sitemap: https://srv-d864jv6k1jcs73fa51p0.onrender.com/sitemap.xml
